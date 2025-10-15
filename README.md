@@ -15,4 +15,4 @@ Ele permite calcular repetidamente até o usuário encerrar, exibe a classifica�
   - Peso normal (18.5 a 24.9)
   - Sobrepeso (25 a 29.9)
   - Obesidade (>= 30)
-- Mostra a média geral dos IMCs ao final.
+- Mostra a média geral dos IMCs ao final
